@@ -170,6 +170,11 @@
          width: 200px;
      }
  }
+ @media (max-width:900px) {
+     .Supercharge .row-2 {
+         margin-bottom: 10px !important;
+     }
+ }
  /* end Supercharge  */
  /* start Clipboard  */
  
